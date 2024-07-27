@@ -39,5 +39,3 @@ const PI = 3.14
 // PI = 1.34 --> results in Error
 // TypeError: Assignment to constant variable.
 
-
-// Activity 2
